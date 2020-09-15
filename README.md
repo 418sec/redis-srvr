@@ -1,6 +1,6 @@
 # redis-srvr
 
-An npm wrapper for [redis-server](http://redis.io/download).
+An npm wrapper for [redis-server](https://redis.io/download).
 
 If your app needs a local redis instance for development or you don't want to have non-npm dependencies then this could be a solution. It will download and install redis from redis.io for you.
 
